@@ -1,5 +1,5 @@
 [package]
-authors = ["Kevin Yeh <kevinyeah@utexas.edu>", "Saghm Rossi <saghmrossi@gmail.com>", "Valeri Karpov <valkar207@gmail.com>"]
+authors = ["Kevin Yeh <kevinyeah@utexas.edu>", "Saghm Rossi <saghmrossi@gmail.com>", "Valeri Karpov <valkar207@gmail.com>", "Pierre Marijon <pierre.marijon-ext@aphp.fr>"]
 description = "A native MongoDB driver for those who can't wait any longer (CWAL)"
 documentation = "https://docs.rs/mongodb_cwal"
 keywords = ["mongo", "mongodb", "database", "bson", "nosql"]
@@ -7,7 +7,7 @@ license = "Apache-2.0"
 name = "mongodb_cwal"
 readme = "README.md"
 repository = "https://github.com/Devolutions/mongodb-cwal-rs"
-version = "0.6.7"
+version = "0.6.8"
 
 [dependencies]
 bitflags = "1.0.0"
