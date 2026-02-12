@@ -8,5 +8,5 @@ Code are outdate not maintained.
 
 ```
 # we must use a specific version of mongo lib because we use a old server of mongo
-mongodb_cwal = { git = "https://github.com/SeqOIA-IT/mongodb_cwal.git", tag = "0.6.8" }
+mongodb_cwal = { git = "https://github.com/SeqOIA-IT/mongodb_cwal.git", tag = "0.6.6" }
 ```
